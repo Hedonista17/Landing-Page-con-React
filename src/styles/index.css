@@ -1,6 +1,26 @@
 
 
-
+@import url('https://fonts.googleapis.com/css2?family=Gajraj+One&family=Quicksand&display=swap');
+      
+#navbarNavAltMarkup{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;  
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);    
+}
+#carouselExample{
+    width: 1200px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.carta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 #footer{
     font-size: 14px;
     

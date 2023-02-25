@@ -31,7 +31,7 @@ const Home = () => {
 			 <NavBar/>
 		 <div className="container">
             <JumBotron/>
-			<div className="container">
+			
 			<div className = "card-group">
 			 
 			 { cartas.map ((propiedad)=> {
@@ -39,7 +39,7 @@ const Home = () => {
 			 })}
 
 			</div>
-			</div>
+			
 		</div>
 		
           <Fotter/>
