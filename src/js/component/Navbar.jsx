@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLightbulb} from "@fortawesome/free-solid-svg-icons";
 import { faPhoneFlip} from "@fortawesome/free-solid-svg-icons";
 import { faHandshakeAngle} from "@fortawesome/free-solid-svg-icons";
-import LogoWeb from "/workspace/react-hello/src/img/LOGOWEEEEB_preview_rev_1.png"
+import LogoWeb from "/workspace/Landing-Page-con-React/src/img/LOGOWEB.png"
 
 
 

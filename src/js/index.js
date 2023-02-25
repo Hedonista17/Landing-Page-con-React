@@ -7,7 +7,7 @@ import "../styles/index.css";
 
 //import your own components
 import Home from "./component/home.jsx";
-import LogoWeb from "/workspace/react-hello/src/img/LOGOWEEEEB_preview_rev_1.png"
+import LogoWeb from "/workspace/Landing-Page-con-React/src/img/LOGOWEB.png";
 
 //render your react application
 ReactDOM.render(<Home />, document.querySelector("#app"));

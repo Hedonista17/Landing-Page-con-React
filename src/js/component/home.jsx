@@ -3,6 +3,7 @@ import NavBar from "./Navbar.jsx";
 import JumBotron from "./Jumbotron.jsx";
 import Card from "./Card.jsx";
 import Fotter from "./footer.jsx";
+import LogoWeb from "/workspace/Landing-Page-con-React/src/img/LOGOWEB.png"
 
 //include images into your bundle
  let cartas = [{
