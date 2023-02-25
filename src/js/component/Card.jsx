@@ -3,7 +3,7 @@ import React from "react";
 const Card = (variable) => {
 
     return (
-   <div  className="carta">
+   <div  className="carta ">
     <div className="card mt-5 mx-5" style={{width: "20rem"}}>
   <img className="card-img-top" src={variable.imagen}></img>
   <div className="card-body">
