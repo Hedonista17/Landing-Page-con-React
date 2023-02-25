@@ -23,6 +23,7 @@ import Fotter from "./footer.jsx";
 	texto:"En varios episodios, se puede ver en la televisión a una banda de rock llamada Lizzard Skizzard. El nombre es una evidente referencia a la clásica banda de rock Lynyrd Skynyrd, pero la banda real tiene mucho más en común con varias de las bandas de los 80-90.",
 	link:"https://www.youtube.com/watch?v=V6kf0vwFj5U",
    }]
+   
 
 //create your first component
 const Home = () => {
@@ -30,7 +31,7 @@ const Home = () => {
 		<div >
 			 <NavBar/>
 		 <div className="container">
-            <JumBotron/>
+		     <JumBotron/>
 			
 			<div className = "card-group">
 			 

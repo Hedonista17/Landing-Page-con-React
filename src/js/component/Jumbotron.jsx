@@ -1,12 +1,12 @@
 import React from "react";
 
 
-const JumBotron = () => {
+const JumBotron = () => {   
 	return (
 		<div className="mt-5"> 
             <div id="carouselExample" className="carousel carousel-dark slide">
   <div className="carousel-inner">
-    <div className="carousel-item active">
+  <div className="carousel-item active">
       <img src="https://peru21.pe/resizer/fevodrXiyEKeBjNRsMZlstuuvYU=/1200x675/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6BIRAPBYMVHBDB7K2C4FDY5BSE.jpg"className="d-block w-100"/>
     </div>
     <div className="carousel-item">
@@ -27,7 +27,7 @@ const JumBotron = () => {
 </div>
 
 
-        </div>
+ </div>
    
 	)
 		
