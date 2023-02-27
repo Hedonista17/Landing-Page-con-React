@@ -7,10 +7,10 @@ import LogoWeb from "/workspace/Landing-Page-con-React/src/img/LOGOWEB.png"
 
 
 
-const NavBar = () => {
+const NavBar = () => { 
 	return (
-	<div>
-        <nav className="navbar navbar-expand-lg bg-opacity-75 bg-success" >
+
+        <nav className="navbar navbar-expand-lg sticky-top bg-opacity-75 bg-success" >
   <div className="container-fluid ">
     <a className="navbar-brand mx-3"><img src={LogoWeb} id="logo"/> </a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,7 +29,7 @@ const NavBar = () => {
 
 
  
-     </div>
+    
 	
 	);
 };

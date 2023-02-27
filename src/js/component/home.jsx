@@ -32,23 +32,20 @@ const Home = () => {
 		<div >
 			 <NavBar/>
 		 <div className="container">
-		     <JumBotron/>
+			<div className="row">
+			<JumBotron/>
+			</div>
+			<div className = "card-group justify-content-between">
 			
-			<div className = "card-group">
-			 
 			 { cartas.map ((propiedad)=> {
 				return <Card  imagen = {propiedad.imagen} titulo ={propiedad.titulo} texto = {propiedad.texto} link ={propiedad.link} />
 			 })}
-
+        
+			
 			</div>
 			
 		</div>
-		
-          <Fotter/>
-		
-
-			
-			
+          <Fotter/>	
 		</div>
 	)
 		

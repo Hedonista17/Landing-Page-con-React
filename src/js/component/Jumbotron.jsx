@@ -3,7 +3,7 @@ import React from "react";
 
 const JumBotron = () => {   
 	return (
-		<div className="mt-5"> 
+		<div className="container container-fluid mt-5"> 
             <div id="carouselExample" className="carousel carousel-dark slide">
   <div className="carousel-inner">
   <div className="carousel-item active">
